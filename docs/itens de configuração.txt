@@ -1,0 +1,23 @@
+itens de configuração 
+
+- Análise de requisitos
+
+- Modelagem de Banco de Dados
+
+- Anánalise de infra
+
+- Análise de Design
+
+- Codificação
+
+- Teste Unitario de Codificação
+
+- Teste final de Codificação
+
+- Operação 
+
+- Teste em Produção
+
+- Relatório final
+
+ 
